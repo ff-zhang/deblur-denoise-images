@@ -38,3 +38,15 @@ Evaluation:
 [MyImage x1]	PSNR: 0.000 (Best: 0.000 @epoch 1)
 Total time: 51.53s
 
+
+Evaluation:
+
+Evaluation:
+[MyImage x1]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 159.54s
+
+
+Evaluation:
+[MyImage x1]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 83.58s
+

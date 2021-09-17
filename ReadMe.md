@@ -1,0 +1,1 @@
+This code is built upon that of [RIDNet (Anwar and Barnes)](https://github.com/saeed-anwar/RIDNet) and [DeepDeblur (Nah et al.)](https://github.com/SeungjunNah/DeepDeblur_release).
